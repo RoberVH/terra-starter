@@ -16,12 +16,16 @@ span {
 
 .App {
     text-align: center;
-    background-color: #282c34;
+    /* background-color: #282c34; */
+    background-color: #35373d;
+    /* background-color: #143371; */
     min-height: 90vh;
 }
 
 .App-header {
-    background-color: #282c34;
+    /* background-color: #282c34; */
+    background-color: #35373d;
+
     min-height: 100vh;
     display: flex;
     flex-direction: column;
